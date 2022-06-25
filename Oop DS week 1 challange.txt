@@ -11,7 +11,7 @@ class Pair{
   }
 };
 
- //
+
 int main() {
   Pair p;
   p.a = 100;
